@@ -1,6 +1,2 @@
 print("ok")
 print("aikun")
-print("hhh")
-print("who are you")
-print("xxx")
-print('what')
